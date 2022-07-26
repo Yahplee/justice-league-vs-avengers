@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS Marvel-battlefield;
+DROP DATABASE IF EXISTS newsfeed_db;
 
-CREATE DATABASE Marvel_battlefield;
+CREATE DATABASE newsfeed_db;
